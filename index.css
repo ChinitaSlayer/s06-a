@@ -29,8 +29,10 @@ li[id]{
 		
 	}
 
-#liststyle-type + h4{
+#liststyle-type + ul{
 	list-style-type: none;
+	
+
 }
 
 
